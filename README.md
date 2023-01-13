@@ -2,7 +2,7 @@ _Happy New Year!_
 
 ![Текст с описанием картинки](https://kpi.ua/files/images-story/n1666.jpg)
 
-#ABOUT MYSELF
+**ABOUT MYSELF**
 
 
 Let me introduce myself. My name is Anatoly. I’m 35 years old. I was born in Novosibirsk.
