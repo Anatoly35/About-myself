@@ -1,5 +1,7 @@
 _Happy New Year!_
+
 ![Текст с описанием картинки](https://kpi.ua/files/images-story/n1666.jpg)
+
 #ABOUT MYSELF
 
 
@@ -16,4 +18,4 @@ In my free time, I like
 What concerns my character and skills, I’m very hard-working, responsible, diligent, and social person with a good sense of humor. That’s all all about myself.
 
 Anatoly Zaytsev
-EMAIL: doubt@inbox.ru
+email: doubt@inbox.ru
