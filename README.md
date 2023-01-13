@@ -18,4 +18,4 @@ In my free time, I like
 What concerns my character and skills, I’m very hard-working, responsible, diligent, and social person with a good sense of humor. That’s all all about myself.
 
 Anatoly Zaytsev
-email: <doubt@inbox.ru>
+email: [doubt@inbox.ru](doubt@inbox.ru)
